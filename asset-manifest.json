@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/amnak1284.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/amnak1284.github.io/static/js/main.a2175214.js",
-    "static/js/787.28a6522c.chunk.js": "/amnak1284.github.io/static/js/787.28a6522c.chunk.js",
-    "static/media/logo.svg": "/amnak1284.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/amnak1284.github.io/index.html",
-    "main.073c9b0a.css.map": "/amnak1284.github.io/static/css/main.073c9b0a.css.map",
-    "main.a2175214.js.map": "/amnak1284.github.io/static/js/main.a2175214.js.map",
-    "787.28a6522c.chunk.js.map": "/amnak1284.github.io/static/js/787.28a6522c.chunk.js.map"
+    "main.css": "/amna-khan/static/css/main.073c9b0a.css",
+    "main.js": "/amna-khan/static/js/main.1c293298.js",
+    "static/js/787.28a6522c.chunk.js": "/amna-khan/static/js/787.28a6522c.chunk.js",
+    "static/media/logo.svg": "/amna-khan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/amna-khan/index.html",
+    "main.073c9b0a.css.map": "/amna-khan/static/css/main.073c9b0a.css.map",
+    "main.1c293298.js.map": "/amna-khan/static/js/main.1c293298.js.map",
+    "787.28a6522c.chunk.js.map": "/amna-khan/static/js/787.28a6522c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a2175214.js"
+    "static/js/main.1c293298.js"
   ]
 }
